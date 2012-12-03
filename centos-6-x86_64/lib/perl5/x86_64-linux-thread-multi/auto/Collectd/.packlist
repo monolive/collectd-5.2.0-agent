@@ -1,0 +1,4 @@
+/opt/collectd/lib/perl5/Collectd.pm
+/opt/collectd/lib/perl5/Collectd/Plugins/OpenVZ.pm
+/opt/collectd/lib/perl5/Collectd/Unixsock.pm
+/opt/collectd/man/man3/Collectd::Unixsock.3pm
